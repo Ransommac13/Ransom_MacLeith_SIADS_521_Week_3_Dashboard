@@ -1,6 +1,9 @@
 # Ransom_MacLeith_SIADS_521_Week_3_Dashboard
 This is the public location for the ipynb Dashboard and associated files that I compiled for the Week 3 assignment of SIADS 521. 
 
+## Google Drive Link to Video Demonstrating the Key Interactions of the Dashboard
+'https://drive.google.com/file/d/1v-1eFNC3LVlupreyB4K7FUjaS55of8kL/view?usp=sharing'
+
 ## Data Source
 I downloaded the CSV file from data.gov at this URL: 'https://catalog.data.gov/dataset/ems-incident-dispatch-data'. 
 It was originally distributed by the Fire Department of New York City via NYC Open Data at this URL: 'https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj/about_data'. This URL includes an Excel document that describes the dataset, including the meanings of all columns and codes. 

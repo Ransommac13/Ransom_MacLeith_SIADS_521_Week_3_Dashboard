@@ -1,5 +1,5 @@
 # Ransom_MacLeith_SIADS_521_Week_3_Dashboard
-This is the public location for the ipynb Dashboard and associated files that I compiled for the Week 3 assignment of SIADS 521. 
+This is the public location for the ipynb Dashboard and associated files that I compiled for the Week 3 assignment of SIADS 521. This ReadMe file includes several assignment requirements, including (1) Necessary Datasets (see Data Source below, the csv file itself is too large to upload into GitHub), (2) Necessary Dependencies (see Dependecies below), and (3) Video Demonstration (see Google Drive link below). 
 
 ## Google Drive Link to Video Demonstrating the Key Interactions of the Dashboard
 'https://drive.google.com/file/d/1v-1eFNC3LVlupreyB4K7FUjaS55of8kL/view?usp=sharing'

@@ -7,6 +7,15 @@ It was originally distributed by the Fire Department of New York City via NYC Op
 
 I would not recommend attempting to load all 28 million rows, which record nearly all EMS dispatch incidents between Jan 1, 2023 and May 10, 2025. Because the purpose of this visualization is exploratory in nature, it is not necessary to visualize all 28 million incidents at once. 
 
+## Dependencies
+* pip
+* Pandas
+* Numpy
+* Scipy
+* ipywidgets
+* IPython
+* plotly
+
 ## Introduction
 When I visit friends in New York City, a common background noise is the familiar whoop of ambulance sirens. And it makes sense; considering NYC's population density, I'm surprised I don't hear sirens more often. When I do hear them, I often think that NYC seems like a horrible place to have an emergency, with its tall buildings, crowded streets, and inconsistent presence of elevators. Therefore, out of curiousity, I decided to explore EMS response times in NYC using publicly available data. 
 
